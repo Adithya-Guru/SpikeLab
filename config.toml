@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0066CC"          # Bright accent blue
+backgroundColor = "#F8F9FA"     # Soft off-white background instead of harsh white
+secondaryBackgroundColor = "#E9ECEF" # Card/sidebar background
+textColor = "#212529"           # Crisp dark grey text
+font = "sans serif"
